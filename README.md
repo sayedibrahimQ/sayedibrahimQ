@@ -1,4 +1,4 @@
-# Hi there, I'm Sayed Ibrahim a [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Data+enthusiast)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there;I'm+Sayed+Ibrahim;a+Backend+Developer;and+Data+enthusiast)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm a passionate developer with a focus on creating efficient and innovative solutions. I thrive on learning new technologies and applying them to real-world projects. Below, you'll find more about my skills, projects, and interests.
 
