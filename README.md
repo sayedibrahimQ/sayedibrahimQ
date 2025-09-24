@@ -1,41 +1,33 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there;I'm+Sayed+Ibrahim;a+Backend+Developer;and+Data+enthusiast)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on creating efficient and innovative solutions. I thrive on learning new technologies and applying them to real-world projects. Below, you'll find more about my skills, projects, and interests.
+🎓 Computer Science student @ Ain Shams University (3rd year)  
+💻 Backend Developer | AI & Data Enthusiast | Future Cryptographer  
+🚀 Building SaaS projects, automating workflows, and exploring fintech & AI ideas 
 
 ---
 
-## 🛠️ Skills
-
-- **Programming Languages:** Python, JavaScript, C++, Java
-- **Web Development:** HTML, CSS, React, Django
-- **Data Analysis:** R, Excel, MATLAB
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Version Control:** Git, GitHub
-- **Other Tools:** Docker, Jenkins, Kubernetes
+## 🔧 Tech Stack
+- **Languages:** Python, Java, JavaScript, SQL  
+- **Frameworks & Tools:** Django, DRF, Celery, Redis, Angular, Flutter  
+- **Special Interests:** Machine Learning, Data Analysis, SaaS Development, FinTech, Blockchain, Web3  
 
 ---
 
-## 📚 Projects
-
-Here are some of my notable repositories and projects:
-
----
-
-## 🌟 Contributions
-
-I believe in the power of open source and frequently contribute to collaborative projects. My contributions include:
-- Debugging and resolving issues in repositories.
-- Writing clean, modular, and efficient code.
-- Providing code reviews and suggestions for improvement.
+## 📊 GitHub Stats
+![Sayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayedibrahimQ&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayedibrahimQ&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Let's Connect!
+## 🌍 Currently Working On
+- 🚀 **Personal Branding SaaS** – automating AI-driven content & analytics  
+- 🧩 Exploring **Zero-Knowledge Proofs (ZKPs) & Next-Gen Blockchain Scalability**
 
-Feel free to reach out if you'd like to collaborate on a project or just have a chat!
+---
 
-- **Email:** sayedibrahim@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Portfolio:** [Your Portfolio](https://your-portfolio.com)
+## 📫 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/sayedibrahim-co/)  
 
-Thank you for visiting my profile. Have a great day! 😊
+---
+
+⭐️ *“Code is like lifting weights: the more reps, the stronger you get.”*  
